@@ -3,6 +3,9 @@
 1 semaine
 
 ## Standups
-- Dimanche
+- Lundi
 - Mardi
 - Jeudi
+
+## Planning
+- Vendredi
